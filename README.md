@@ -1,2 +1,2 @@
 # newsCrawler
-- Crawler for (www.ltn.com.tw/ "Liberty Time Net")
+- Crawler for [Liberty Time Net](www.ltn.com.tw)
